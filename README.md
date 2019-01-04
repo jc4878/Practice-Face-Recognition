@@ -1,1 +1,1 @@
-# Practice-Machine-Learning-and-Deep-Learning
+# Practice Statistical Learning and Deep Learning
