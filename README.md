@@ -1,1 +1,1 @@
-# Practice-Face-Recognition
+# Practice-Machine-Learning-and-Deep-Learning
